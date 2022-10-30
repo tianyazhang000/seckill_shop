@@ -1,0 +1,2 @@
+# seckill_shop
+基于Spring Boot构建电商基础秒杀项目
